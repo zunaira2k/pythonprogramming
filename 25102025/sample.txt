@@ -1,0 +1,4 @@
+Data Science is an interdisciplinary field.
+It Combines statistics, computer science, and domain knowledge.
+Python is widely used for data analysis and visualization.
+Machin learning and AI are transforming industries.
