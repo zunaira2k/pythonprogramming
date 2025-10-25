@@ -1,4 +1,4 @@
-list1 = list(input("Please enter list 1 "))
+list1 = list(( input("Please enter list 1 ")).split(" "))
 list2 = list(input("Please enter list 2 "))
 
 print("Elements common in both the lists ")
