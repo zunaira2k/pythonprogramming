@@ -1,0 +1,14 @@
+PatientID,Age,Department,Bill-Amount
+P001,45,Cardiology,55000
+P002,36,Neurology,42000
+P003,29,Orhtopedics,28000
+P004,54,Cardiology,72000
+P005,40,Neurology,51000
+P006,31,Orhtopedics,35000
+P007,60,Cardiology,90000
+P007,60,Cardiology,90000
+P008,27,Dermatology,18000
+P009,49,Orhtopedics,41000
+P010,38,Neurology,64000
+
+
